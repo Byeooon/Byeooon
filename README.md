@@ -2,9 +2,9 @@
 
 Welcome to my Github 💻
 
-##### - myBlog 🐫 : https://byeooon.github.io
+* myBlog 🐫 : https://byeooon.github.io
 
-##### - Ask me about 💬 : junhyeong0519@gmail.com
+* E-mail 💬 : junhyeong0519@gmail.com
 
 <!--
 **Byeooon/Byeooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
