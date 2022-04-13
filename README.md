@@ -1,10 +1,10 @@
-### Hello world! 👋
+### Hello world! 👋🏼
 
-Welcome to my Github 💻
+Welcome to my Github! 💻
 
-* 🐫 myBlog  : https://byeooon.github.io
+* 🐫 my Blog ... https://byeooon.github.io
 
-* 💬 Ask me about : junhyeong0519@gmail.com
+* 💬 Ask me about ... junhyeong0519@gmail.com
 
 <!--
 **Byeooon/Byeooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
