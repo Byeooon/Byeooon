@@ -2,7 +2,7 @@
 
 * Technical Blog : https://byeooon.github.io
 
-* Contact Me : junhyeong0519@gmail.com
+* Contact me : junhyeong0519@gmail.com
 
 <!--
 **Byeooon/Byeooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
