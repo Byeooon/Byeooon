@@ -1,4 +1,4 @@
-### 변준형(Byeon Junhyeong)
+### 변준형 (Byeon Junhyeong)
 
 ---
 
