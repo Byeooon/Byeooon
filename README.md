@@ -4,6 +4,6 @@
 
 * Technical Blog : https://byeooon.github.io
 
-* Contact me : junhyeong0519@gmail.com
+* Contact : junhyeong0519@gmail.com
 
 ---
