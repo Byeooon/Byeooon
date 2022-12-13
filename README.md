@@ -1,8 +1,8 @@
-### 변준형 (Byeon Junhyeong)
+##### 변준형 (Byeon Junhyeong)
 
 ---
 
-### 🏆 PRIZE
+##### 🏆 Prize
 
 * The World Embedded software Contest 2022 Car/Mobility Part The First Prize
 
