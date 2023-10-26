@@ -21,8 +21,13 @@
 <p align="left">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/YOLO-5C3EE8?style=plastic&logo=YOLO&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white"/>
+</p>
+
+<p align="left">
     <img src="https://img.shields.io/badge/OpenCV-00FFFF?style=plastic&logo=OpenCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
 </p>
 
 <p align="left">
