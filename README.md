@@ -1,7 +1,6 @@
 ##### 변준형 (Byeon Junhyeong)
 
-
-##### Currently I am interested in Autonomous Driving... 🏎️
+##### Interested in Autonomous Driving 🚕
 
 ---
 
@@ -40,9 +39,8 @@
     <img src="https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=Arduino&logoColor=white"/>
 </p>
 
-
-
 ---
+
 * ##### Tech Blog : https://byeooon.github.io
 
 * ##### Contact : junhyeong0519@gmail.com
