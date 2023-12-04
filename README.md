@@ -1,12 +1,10 @@
 ##### 변준형 (Byeon Junhyeong)
 
-##### Interested in Autonomous Driving 🚕
-
----
-
 ##### 🏆 Prize
 
 ##### The World Embedded software Contest 2022 Car/Mobility Part The First Prize
+
+##### 2022 Open Source Software Developer Contest Social Issues Excellent Work Selected
 
 ---
 
