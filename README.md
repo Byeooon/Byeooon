@@ -2,9 +2,9 @@
 
 ##### 🏆 Prize
 
-##### The World Embedded software Contest 2022 Car/Mobility Part The First Prize
+* ##### The World Embedded software Contest 2022 Car/Mobility part The First Prize
 
-##### 2022 Open Source Software Developer Contest Social Issues Excellent Work Selected
+* ##### 2022 Open Source Software Developer Contest social issues part Excellent work selected
 
 ---
 
