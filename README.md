@@ -39,6 +39,6 @@
 
 ---
 
-##### Tech Blog : https://byeooon.github.io
+##### 👷🏿‍♂️ Tech Blog : https://byeooon.github.io
 
-##### Contact : junhyeong0519@gmail.com
+##### 📨 Contact : junhyeong0519@gmail.com
