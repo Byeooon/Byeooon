@@ -8,7 +8,7 @@
 
 ---
 
-##### 🛠️ Skills
+##### ⌨️ Skills
 
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
@@ -44,6 +44,6 @@
 
 ---
 
-##### 👷🏿‍♂️ Tech Blog : https://byeooon.github.io
+##### 👨🏽‍🚀 Tech Blog : https://byeooon.github.io
 
 ##### 📨 Contact : junhyeong0519@gmail.com
