@@ -33,6 +33,12 @@
 </p>
 
 <p align="left">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vim-019733?style=plastic&logo=vim&logoColor=white"/>
+</p>
+
+<p align="left">
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=plastic&logo=Raspberry Pi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=Arduino&logoColor=white"/>
 </p>
