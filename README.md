@@ -46,7 +46,7 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-ffffff?style=plastic&logo=notion&logoColor=black"/>
 </p>
 
 ---
