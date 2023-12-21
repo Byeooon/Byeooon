@@ -30,7 +30,9 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/ROS-22314E?style=plastic&logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"/>
 </p>
 
 <p align="left">
