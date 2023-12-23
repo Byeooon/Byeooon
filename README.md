@@ -53,6 +53,7 @@
 
 ---
 
-##### 👨🏽‍🚀 Tech Blog : https://byeooon.github.io
-
-##### 📨 Contact : junhyeong0519@gmail.com
+| TYPE | INFO  | 
+| :-----------:  |:--------------:|
+| 👨🏿‍💻 TECH BLOG | https://byeooon.github.io  | 
+| 📮 MAIL | junhyeong0519@gmail.com      | 
