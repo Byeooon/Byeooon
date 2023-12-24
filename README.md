@@ -57,3 +57,4 @@
 | :-----------:  |:--------------:|
 | 👨🏿‍💻 TECH BLOG | https://byeooon.github.io  | 
 | 📮 MAIL | junhyeong0519@gmail.com      | 
+| 🦒 INTEREST | AI & Autonomous Vehicle |
