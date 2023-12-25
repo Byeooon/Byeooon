@@ -1,4 +1,9 @@
-##### 변준형 (Byeon Junhyeong)
+| 👋🏼 |
+| :-----------:  |
+| 변준형 (BYEON JUNHYEONG) | 
+| 🦓 AI & 🚔 Autonomous Vehicle |
+
+---
 
 ##### 🏆 Prize
 
@@ -57,4 +62,3 @@
 | :-----------:  |:--------------:|
 | 👨🏿‍💻 TECH BLOG | https://byeooon.github.io  | 
 | 📮 MAIL | junhyeong0519@gmail.com      | 
-| 🦒 INTEREST | AI & Autonomous Vehicle |
