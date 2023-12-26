@@ -1,6 +1,8 @@
 ##### 👋🏼 변준형 (BYEON JUNHYEONG)
 
-##### 🦓 AI & 🚔 Autonomous Vehicle
+##### 🦓 AI
+##### 🚕 Autonomous Vehicle
+##### ⚙️ Embedded System
 
 ---
 
