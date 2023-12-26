@@ -1,7 +1,6 @@
-| 👋🏼 |
-| :-----------:  |
-| 변준형 (BYEON JUNHYEONG) | 
-| 🦓 AI & 🚔 Autonomous Vehicle |
+##### 👋🏼 변준형 (BYEON JUNHYEONG)
+
+##### 🦓 AI & 🚔 Autonomous Vehicle
 
 ---
 
